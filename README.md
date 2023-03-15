@@ -1,7 +1,6 @@
 # Machine-Learning-Final-Project-with-Amazon-Reivew-Data
 Welcome to my machine learning project using Pyhton!
 
----
 
 ## Description
 This project is a machine learning model built using Python. The model is designed to predict overall rating based on reviewText, and has been trained on a large dataset to ensure accuracy. It is focused on implementing Binary and Multiclass Classifiers and clustering Technique.
